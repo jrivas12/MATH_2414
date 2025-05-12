@@ -18,6 +18,34 @@ exclusive Copyright and Related Rights (defined below) upon the creator
 and subsequent owner(s) (each and all, an "owner") of an original work of
 authorship and/or a database (each, a "Work").
 
+==========================================================================================
+
+APPENDIX
+
+This repository includes the following original academic and technical works:
+
+- Diverging_the_Partial_Sums(JRivas).pdf  
+- recursive.cpp  
+- detection_script.cpp
+
+    Author: Joe L. Rivas  
+    Course: MATH 2414 P01 – Calculus II  
+    Institution: South Texas College 
+    Term: Spring 2025  
+
+The academic paper is released under the **Creative Commons CC0 1.0 Universal License**.  
+This dedication places the work in the public domain, permitting unrestricted reuse,  
+distribution, adaptation, and commercial application without legal obligation.
+
+While formal attribution is not required under CC0, **citation and credit to the author 
+are ethically appreciated** in academic, research, or derivative contexts—particularly 
+where interpretation, transformation, or republication of this work occurs.
+
+The accompanying code (`recursive.cpp`, `detection_script.cpp`) is intended for educational 
+review and will be released under the **Apache License 2.0** in a future update.
+
+==========================================================================================
+
 Certain owners wish to permanently relinquish those rights to a Work for
 the purpose of contributing to a commons of creative, cultural and
 scientific works ("Commons") that the public can reliably and without fear
